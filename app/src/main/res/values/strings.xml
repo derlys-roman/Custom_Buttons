@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Custom Buttons</string>
+    <string name="First_Button">Ok</string>
 </resources>
